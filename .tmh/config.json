@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/molacademy/Tenant01/testmanager_",
+  "defaultProject": {
+    "id": "b9dbf388-300f-0000-34d8-0b44563b9f11",
+    "name": "BeALogianGame",
+    "key": "WWTBAL"
+  }
+}
